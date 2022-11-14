@@ -1,0 +1,46 @@
+body{
+
+  background-image: url(../css/fondo.jpeg);
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+
+.App {
+  text-align: center;
+  
+}
+
+.input-group{
+  width: 60%;
+}
+
+.card{
+  max-width: 83%;
+  opacity: 82%;;
+}
+
+.card-title{
+  position: absolute;
+  padding: 20px;
+}
+
+.card-date{
+  position: absolute;
+  padding-left: 20px;
+  margin-top: 60px;
+}
+
+.card-temp{
+  position: absolute;
+  padding-left: 20px;
+  margin-top: 260px;
+  font-size: 50px;
+}
+
+.card-desc{
+  position: absolute;
+  padding-left: 20px;
+  margin-top: 320px;
+}
+
+
